@@ -1,0 +1,5 @@
+U²-Net: Going Deeper with Nested U-Structure for Salient Object Detection. Xuebin Qin et al., 2020. https://github.com/xuebinqin/U-2-Net
+Weights: u2netp.onnx and silueta.onnx from https://github.com/danielgatis/rembg/releases/tag/v0.0.0
+u2netp SHA-256 309c8469258dda742793dce0ebea8e6dd393174f89934733ecc8b14c76f4ddd8
+silueta SHA-256 75da6c8d2f8096ec743d071951be73b4a8bc7b3e51d9a6625d63644f90ffeedb
+ONNX Runtime Web 1.22.0: Microsoft, MIT License.

@@ -1,0 +1,1 @@
+export default async function Card({params}:{params:Promise<{id:string}>}){const {id}=await params;return <iframe title="3D闪卡成品" src={'/studio/index.html?view='+encodeURIComponent(id)} style={{position:'fixed',inset:0,width:'100%',height:'100%',border:0}} allow="clipboard-write; fullscreen"/>}
